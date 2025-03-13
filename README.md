@@ -1,8 +1,5 @@
 # Hi there, I'm Sadik Tofik! 👋
 
-
-⚡ Fun fact: I can turn a cup of coffee ☕ into a fully functional web application!
-
 Welcome to my GitHub profile! I'm a passionate Computer Science student at Jimma University, with a strong interest in web development, problem-solving, and building innovative projects. I enjoy working on both frontend and backend development, and I'm always eager to learn new technologies and collaborate on exciting ideas.
 
 ## 🛠️ Technologies & Tools
@@ -39,7 +36,7 @@ Calculator (JavaScript)
 
 Developed a functional calculator application using JavaScript.
 
-##🌱 What I'm Currently Learning
+## 🌱 What I'm Currently Learning
 I'm always expanding my skill set! Currently, I'm focusing on:
 
 Improving my knowledge of React and Web3 technologies.
@@ -57,5 +54,5 @@ LinkedIn: Sadik Tofik
 
 GitHub: sadik-tofik
 
-##⚡ Fun Fact
+## ⚡ Fun Fact
 When I'm not coding, you can find me exploring new technologies, participating in hackathons, or enjoying a cup of coffee while brainstorming my next project!
