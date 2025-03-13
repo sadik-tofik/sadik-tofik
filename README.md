@@ -16,7 +16,7 @@ Tools: XAMPP, Git, Google, ChatGPT, Stack Overflow
 
 Other Skills: Problem-solving, teamwork, and leadership
 
-##🚀 Projects
+## 🚀 Projects
 Here are some of the projects I've worked on:
 
 Hulu Travel Agency Website
